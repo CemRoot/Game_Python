@@ -1,35 +1,35 @@
 # Game_Python
-###Project Title
+### Project Title
 ```
 A brief description of what this project is about.
 ```
 
-###Installation
+### Installation
 ```
 Instructions on how to install and set up the project.
 ```
 
-###Usage
+### Usage
 ```
 Instructions on how to use the project.
 ```
 
-###Contributing
+### Contributing
 ```
 Guidelines for contributing to the project.
 ```
 
-###Credits
+### Credits
 ```
 Acknowledgments and credits for any resources or inspiration used in the project.
 ```
 
-###License
+### License
 ```
 The license for the project (if applicable).
 ```
 
-###Contact
+### Contact
 ```
 How to reach out to the project maintainer or contributors for support or questions.
 
